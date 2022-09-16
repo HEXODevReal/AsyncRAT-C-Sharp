@@ -1,9 +1,5 @@
 <img src="https://i.imgur.com/KbomEco.png">
 
-# Inside The Winrar Is The Source Code
-
-Unpack the rar open the project then build it and enjoy.
-
 # Plugin Fixed
 
 .NET 4.0 error when you send file or add file to the auto task
